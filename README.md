@@ -4,7 +4,7 @@ This project provides EV charging station details in real time. The useful detai
 
 ## React Native Expo App
 
-This is a React Native Expo project created with the default template.
+This is a React Native Expo project created with the default template, using **TypeScript**.
 
 ## Getting Started
 
@@ -41,9 +41,10 @@ This will start the Expo development server. You can then:
 
 ```
 jusmore-ev/
-├── App.js                 # Main application component
+├── App.tsx               # Main application component (TypeScript)
 ├── app.json              # Expo configuration
 ├── package.json          # Dependencies and scripts
+├── tsconfig.json         # TypeScript configuration
 ├── index.js              # Entry point
 ├── assets/               # Images and other static assets
 │   ├── icon.png
