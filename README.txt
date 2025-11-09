@@ -51,6 +51,8 @@ To build side menu:
 For Event streams via sserver side events (SSE)
  npm i react-native-sse
 
+Jenkins CI/CD
+https://jerrintkg.medium.com/react-native-ci-cd-jenkins-firebase-bc02dab82ae3
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
